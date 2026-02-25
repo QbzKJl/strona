@@ -155,7 +155,7 @@ p, input {
     width: 100%;
 }
 .bottom_bar{
-    position: relative;
+    position: fixed;
     background-color: var(--background2);
     border-top: var(--background2);
     bottom: 0;
